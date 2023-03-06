@@ -1,5 +1,6 @@
 # Keras-Reg-Class
-This GitHub repository contains a collection of regression models implemented using Keras on the popular MNIST handwritten digits dataset. 
+
+This GitHub repository provides a comprehensive collection of Keras-based machine learning models for both regression and classification tasks.
 
 ### Summary
   - #### [MNIST-from-Scratch](https://github.com/Overlrd/Keras-Reg-Class/blob/main/MNIST-IN-DEEP/MNIST-from-Sratch.ipynb)
