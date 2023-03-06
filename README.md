@@ -1,4 +1,3 @@
-# Keras-Reg-Class
 
 This GitHub repository provides a comprehensive collection of Keras-based machine learning models for both regression and classification tasks.
 
