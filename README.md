@@ -23,3 +23,5 @@ This GitHub repository provides a comprehensive collection of Keras-based machin
 - [Deepl_lr_for_text](https://github.com/Overlrd/Deep_Learning_For_Text/Deep_lr_fro_text.ipnb): Covering NLP, including Text Processing (Normalization, Tokenization, Indexing, Embedding) Modelling (bag-of-words and sequence model approaches), and different model architectures (Dense, Bidirectional LSTM).
 
 - [The Transformer Architechture](Deep_Learning_For_Text/The_Transformer_Architechture.ipynb) : Covering self-attention , multi-head attention ,the transformer encoder 
+
+- [English to Spanish Translation with RNN and Transformers models](Deep_Learning_For_Text/english_to_spanish_translation_RNN_Transformers.ipynb) : Covering sequence to sequence learning , RNN based encoder and decoder , Transformer decoder. 
